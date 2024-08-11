@@ -1,0 +1,17 @@
+# Ignore Binaries
+Binaries/
+
+# Ignore Build files
+Build/
+
+# Ignore Intermediate files
+Intermediate/
+
+# Ignore Saved files
+Saved/
+
+# Ignore DerivedDataCache
+DerivedDataCache/
+
+# Ignore .vs folder (Visual Studio files)
+.vs/

@@ -1,0 +1,91 @@
+[+] Containers:
+ |- [+] Container: /Game/StarterContent/TTT/TTT_level
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:1E36630B44CAEE053789BF8D7D209673 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2110191007 Label:Box32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-700.000 Y=-30.000 Z=-50.000), Max=(X=-300.000 Y=370.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:24432B9146FA2FDBC082F697A34A0959 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2098884005 Label:Box23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-120.000 Y=550.000 Z=-50.000), Max=(X=280.000 Y=950.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:51B6C1E54CBC057C12F1809768A192B9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2103726006 Label:Box31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-710.000 Y=-550.000 Z=-50.000), Max=(X=-310.000 Y=-150.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7B80670947C69B5CD7B9008827D7C709 BaseClass:/Game/StarterContent/TTT/TTT_Grid.TTT_Grid_C NativeClass:/Script/Engine.Actor Name:TTT_Grid_C_UAID_2CF05D0D043BED1002_1277683122 Label:TTT_Grid SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-700.000 Y=-620.000 Z=-50.000), Max=(X=810.000 Y=890.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:89455BC24A6865ED312A00A7A2EC78D2 BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_2CF05D0D043BEC1002_2120957944 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=2000.000), Max=(X=0.000 Y=0.000 Z=2000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:95249A834E1D2A6EF2289E8B3C4E54DF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_1967553000 Label:Box11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=420.000 Y=-570.000 Z=-50.000), Max=(X=820.000 Y=-170.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:AE9C61A74F94A026B8AE0D9B6A531D39 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2082537003 Label:Box21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-140.000 Y=-560.000 Z=-50.000), Max=(X=260.000 Y=-160.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:C9A66C6244BA9FAF0FA08EA24F49BA10 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2068716001 Label:Box12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=430.000 Y=-20.000 Z=-50.000), Max=(X=830.000 Y=380.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:CE48C4EF40DA2832CA4993A8A9BD1CBB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2131905008 Label:Box33 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-700.000 Y=520.000 Z=-50.000), Max=(X=-300.000 Y=920.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:D24F837741408C3AC645D199DDF82357 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2094741004 Label:Box22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-130.000 Y=-20.000 Z=-50.000), Max=(X=270.000 Y=380.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:EEE6C5334E023CB69F88F491D687C9A3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2075903002 Label:Box13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=440.000 Y=520.000 Z=-50.000), Max=(X=840.000 Y=920.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:89455BC24A6865ED312A00A7A2EC78D2 BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_2CF05D0D043BEC1002_2120957944 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=2000.000), Max=(X=0.000 Y=0.000 Z=2000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:7B80670947C69B5CD7B9008827D7C709 BaseClass:/Game/StarterContent/TTT/TTT_Grid.TTT_Grid_C NativeClass:/Script/Engine.Actor Name:TTT_Grid_C_UAID_2CF05D0D043BED1002_1277683122 Label:TTT_Grid SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-700.000 Y=-620.000 Z=-50.000), Max=(X=810.000 Y=890.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:95249A834E1D2A6EF2289E8B3C4E54DF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_1967553000 Label:Box11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=420.000 Y=-570.000 Z=-50.000), Max=(X=820.000 Y=-170.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:C9A66C6244BA9FAF0FA08EA24F49BA10 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2068716001 Label:Box12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=430.000 Y=-20.000 Z=-50.000), Max=(X=830.000 Y=380.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:EEE6C5334E023CB69F88F491D687C9A3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2075903002 Label:Box13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=440.000 Y=520.000 Z=-50.000), Max=(X=840.000 Y=920.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:AE9C61A74F94A026B8AE0D9B6A531D39 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2082537003 Label:Box21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-140.000 Y=-560.000 Z=-50.000), Max=(X=260.000 Y=-160.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:D24F837741408C3AC645D199DDF82357 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2094741004 Label:Box22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-130.000 Y=-20.000 Z=-50.000), Max=(X=270.000 Y=380.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:24432B9146FA2FDBC082F697A34A0959 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2098884005 Label:Box23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-120.000 Y=550.000 Z=-50.000), Max=(X=280.000 Y=950.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:51B6C1E54CBC057C12F1809768A192B9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2103726006 Label:Box31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-710.000 Y=-550.000 Z=-50.000), Max=(X=-310.000 Y=-150.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:1E36630B44CAEE053789BF8D7D209673 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2110191007 Label:Box32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-700.000 Y=-30.000 Z=-50.000), Max=(X=-300.000 Y=370.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:CE48C4EF40DA2832CA4993A8A9BD1CBB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05D0D043B031102_2131905008 Label:Box33 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-700.000 Y=520.000 Z=-50.000), Max=(X=-300.000 Y=920.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-710.000 Y=-620.000 Z=-50.000), Max=(X=840.000 Y=950.000 Z=50.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/StarterContent/TTT/TTT_level
+----------------------------------------------------------------------------------------------------------------
+TTT_level - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 44 
+
+----------------------------------------------------------------------------------------------------------------
+TTT_level - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-710.000 Y=-620.000 Z=-50.000), Max=(X=840.000 Y=950.000 Z=50.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    4 | Cell Size   25600 | Actor Count    4 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y-1
+ |   |- Actor Count: 1
+ |   |- MinMaxZ: X=-50.000 Y=50.000
+ |   |- Actor Path: /Game/StarterContent/TTT/TTT_level.TTT_level:PersistentLevel.StaticMeshActor_UAID_2CF05D0D043B031102_1967553000
+ |   |- Actor Package: /Game/__ExternalActors__/StarterContent/TTT/TTT_level/B/L6/31AEYRGY5HBK85FU6U2VL9
+ |- [+] Content of Cell MainGrid_L0_X0_Y0
+ |   |- Actor Count: 1
+ |   |- MinMaxZ: X=-50.000 Y=50.000
+ |   |- Actor Path: /Game/StarterContent/TTT/TTT_level.TTT_level:PersistentLevel.StaticMeshActor_UAID_2CF05D0D043B031102_2075903002
+ |   |- Actor Package: /Game/__ExternalActors__/StarterContent/TTT/TTT_level/E/HX/74BX1YX0G80KQCBV4WSR1T
+ |- [+] Content of Cell MainGrid_L0_X-1_Y-1
+ |   |- Actor Count: 1
+ |   |- MinMaxZ: X=-50.000 Y=50.000
+ |   |- Actor Path: /Game/StarterContent/TTT/TTT_level.TTT_level:PersistentLevel.StaticMeshActor_UAID_2CF05D0D043B031102_2103726006
+ |   |- Actor Package: /Game/__ExternalActors__/StarterContent/TTT/TTT_level/A/19/HEHC2TYC8NT6TNT38KNJGP
+ |- [+] Content of Cell MainGrid_L0_X-1_Y0
+ |   |- Actor Count: 1
+ |   |- MinMaxZ: X=-50.000 Y=50.000
+ |   |- Actor Path: /Game/StarterContent/TTT/TTT_level.TTT_level:PersistentLevel.StaticMeshActor_UAID_2CF05D0D043B031102_2131905008
+ |   |- Actor Package: /Game/__ExternalActors__/StarterContent/TTT/TTT_level/4/46/UFOB9FGZ7T8T693UTSVD3R
+[+] Content of Grid Level 1
+
