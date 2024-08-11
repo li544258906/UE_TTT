@@ -10,3 +10,4 @@
 2. 分为两个关卡，一个TicTacToe_Game为下棋关卡，一个TTT_MainMenu是游戏选择界面关卡， 游戏启动关卡为TTT_MainMenu。
 3. 游戏逻辑用蓝图实现。
 4. 项目中为了实现跨关卡传递参数，使用了自己的GameInstance，对应的蓝图类为TTT文件夹下的 MyGameInstance。
+5. 项目中有.gitignore文件为git上传相关文件，非项目文件。
